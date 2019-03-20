@@ -45,7 +45,8 @@ class SelectPanel extends Component {
                 </span>
               </div>
             ))}
-            <div className = 'panel__item-bar__sum'>
+            <div className = 'panel__item-bar__sum'
+              style = {{ display: p.places.length <=1 ? 'none' : 'block' }}>
               <span>Удалить все</span>
               <span className = 'panel__item-bar__line__del'
                 onClick = {this.allDel}>x</span>
