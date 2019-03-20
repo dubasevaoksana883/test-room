@@ -1,14 +1,14 @@
 {
-  "main.css": "/test-room/static/css/main.9bc034a2.chunk.css",
-  "main.js": "/test-room/static/js/main.c4415abb.chunk.js",
-  "main.js.map": "/test-room/static/js/main.c4415abb.chunk.js.map",
+  "main.css": "/test-room/static/css/main.d1069c02.chunk.css",
+  "main.js": "/test-room/static/js/main.fba3875b.chunk.js",
+  "main.js.map": "/test-room/static/js/main.fba3875b.chunk.js.map",
   "runtime~main.js": "/test-room/static/js/runtime~main.dbde69dc.js",
   "runtime~main.js.map": "/test-room/static/js/runtime~main.dbde69dc.js.map",
-  "static/js/2.4952e05c.chunk.js": "/test-room/static/js/2.4952e05c.chunk.js",
-  "static/js/2.4952e05c.chunk.js.map": "/test-room/static/js/2.4952e05c.chunk.js.map",
+  "static/js/2.fde4f994.chunk.js": "/test-room/static/js/2.fde4f994.chunk.js",
+  "static/js/2.fde4f994.chunk.js.map": "/test-room/static/js/2.fde4f994.chunk.js.map",
   "index.html": "/test-room/index.html",
-  "precache-manifest.ad4a27490db41bd689457656a9092b5e.js": "/test-room/precache-manifest.ad4a27490db41bd689457656a9092b5e.js",
+  "precache-manifest.5e51f4ae6eecf127cff21bb0e1215822.js": "/test-room/precache-manifest.5e51f4ae6eecf127cff21bb0e1215822.js",
   "service-worker.js": "/test-room/service-worker.js",
-  "static/css/main.9bc034a2.chunk.css.map": "/test-room/static/css/main.9bc034a2.chunk.css.map",
+  "static/css/main.d1069c02.chunk.css.map": "/test-room/static/css/main.d1069c02.chunk.css.map",
   "static/media/logo.svg": "/test-room/static/media/logo.5d5d9eef.svg"
 }
